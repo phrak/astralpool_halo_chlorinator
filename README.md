@@ -130,6 +130,14 @@ https://www.youtube.com/watch?v=zaRFVSt8Hc4
 https://github.com/wilsto/pool-monitor-card
 The "Pool Monitor Card" is a home assistant plugin that display information of 12 pre-defined sensors of your swimming pool : temperature, pH, ORP levels and TDS but also if you need them : salinity, CYA, calcium, phosphate, alkalinity, free chlorine, total chlorine, filter pressure
 
+## Cumulative Acid Dosing over time
+https://github.com/phrak/AstralPoolsHalo_Automations/blob/main/Acid%20Dosing.md
+
+* Track and show cumulative volume of acid dosed over any period of time.
+* Show how much acid is still available in the drum.
+* Create an alert (push/mobile/email) when the acid drum remaining volume drops below a certain level. e.g. 1L remaining.
+* Define the total volume of the acid drum.
+* Reset the cumulative volume counter when the acid feed drum is refilled.
 
 <!---->
 
